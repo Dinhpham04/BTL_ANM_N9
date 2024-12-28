@@ -1,0 +1,10 @@
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.csproj.AssemblyReference.cache
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.Form1.resources
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.Properties.Resources.resources
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.csproj.GenerateResource.cache
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.csproj.CoreCompileInputs.cache
+D:\Workspace\C++\AESChatApp\AESChatApp\bin\Debug\AESChatApp.exe.config
+D:\Workspace\C++\AESChatApp\AESChatApp\bin\Debug\AESChatApp.exe
+D:\Workspace\C++\AESChatApp\AESChatApp\bin\Debug\AESChatApp.pdb
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.exe
+D:\Workspace\C++\AESChatApp\AESChatApp\obj\Debug\AESChatApp.pdb
